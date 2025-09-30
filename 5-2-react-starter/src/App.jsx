@@ -10,8 +10,8 @@ function App() {
 
       <main className="dashboard-main">
         <div className="cards-container">
-          <StudentCard name = "" id="" dept="" />
-         <StudentCard name="" id="" dept="" />
+          <StudentCard name = "musab" id="2022666" dept="Information and mathmatics" />
+         <StudentCard name="omar" id="2022555" dept="physics" />
         </div>
       </main>
     </div>
