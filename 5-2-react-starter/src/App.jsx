@@ -10,7 +10,7 @@ function App() {
 
       <main className="dashboard-main">
         <div className="cards-container">
-          <StudentCard name="" id="" dept="" />
+          <StudentCard name = "" id="" dept="" />
          <StudentCard name="" id="" dept="" />
         </div>
       </main>
